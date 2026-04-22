@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Success Design — Logo Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background: #f0ede8;
+      gap: 80px;
+      flex-wrap: wrap;
+      padding: 60px;
+      font-family: Arial, sans-serif;
+    }
+    .card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+    .label {
+      font-size: 10px;
+      letter-spacing: 4px;
+      color: #999;
+      text-transform: uppercase;
+    }
+
+    /* ——— MONOGRAMME ——— */
+    .monogram {
+      position: relative;
+      display: inline-block;
+      line-height: 1;
+    }
+    /* Spacer invisible pour dimensionner le conteneur */
+    .spacer {
+      font-family: 'Cormorant Garamond', 'Georgia', serif;
+      font-size: 220px;
+      font-weight: 300;
+      line-height: 0.82;
+      visibility: hidden;
+      display: block;
+      padding-right: 30px;
+    }
+    .letter {
+      font-family: 'Cormorant Garamond', 'Georgia', serif;
+      font-size: 220px;
+      font-weight: 300;
+      line-height: 0.82;
+      position: absolute;
+      top: 0;
+    }
+    /* D : plein, en arrière-plan */
+    .letter-d {
+      color: #111;
+      left: 65px;
+      z-index: 1;
+    }
+    /* S : contour uniquement, devant — crée l'entrelacement */
+    .letter-s {
+      color: transparent;
+      -webkit-text-stroke: 1.8px #111;
+      left: 0;
+      z-index: 2;
+    }
+
+    /* Version fond noir */
+    .dark {
+      background: #111;
+      padding: 32px 44px;
+    }
+    .dark .letter-d { color: white; }
+    .dark .letter-s { -webkit-text-stroke: 1.8px white; }
+
+    /* Version fond blanc */
+    .white {
+      background: white;
+      padding: 32px 44px;
+    }
+
+    /* Séparateur */
+    .divider {
+      width: 1px;
+      height: 200px;
+      background: #ccc;
+    }
+
+    /* Note */
+    .note {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 11px;
+      color: #aaa;
+      letter-spacing: 1px;
+      white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- VERSION FOND NOIR -->
+  <div class="card">
+    <div class="dark">
+      <div class="monogram">
+        <span class="spacer">SD</span>
+        <span class="letter letter-d">D</span>
+        <span class="letter letter-s">S</span>
+      </div>
+    </div>
+    <p class="label">Fond sombre</p>
+  </div>
+
+  <div class="divider"></div>
+
+  <!-- VERSION FOND BLANC -->
+  <div class="card">
+    <div class="white">
+      <div class="monogram">
+        <span class="spacer">SD</span>
+        <span class="letter letter-d">D</span>
+        <span class="letter letter-s">S</span>
+      </div>
+    </div>
+    <p class="label">Fond clair</p>
+  </div>
+
+  <p class="note">Success Design · Monogramme SD · Cormorant Garamond Light</p>
+</body>
+</html>
