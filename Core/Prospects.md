@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 74 prospects
+**Total confirmés :** 93 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -120,12 +120,31 @@
 
 ---
 
-## 🌿 PAYSAGISTES — 2 prospects
+## 🌿 PAYSAGISTES & JARDINIERS — 21 prospects
 
 | # | Nom | Adresse | Téléphone | Avis |
 |---|-----|---------|-----------|------|
 | 65 | Empreinte Végétale Méditeranée | 23 Av. Colombo, 06000 | 06 47 30 18 29 | 21 · 5★ |
 | 66 | Art et Paysage | 30 Av. Jean Médecin, 06000 | 04 93 62 58 46 | 49 · 4★ |
+| 75 | Jede Jardins | 3 Pass. du Petit Parc, 06000 | 04 93 52 28 29 | 4 · 4★ |
+| 76 | Jardin Nature Sarl | 122 Cor des Oliviers, 06000 | 04 92 09 90 80 | 2 · 5★ |
+| 77 | S.e.v.e Jardins | 48 Rue Rossini, 06000 | 04 93 83 15 50 | 3 · 4★ |
+| 78 | Garden Multiservices | 40 Av. Sainte-Marguerite, 06200 | 06 27 13 61 05 | 3 · 5★ |
+| 79 | Sarl Le Jardinier | 12 Rue de Dijon, 06000 | 06 22 50 80 65 | 1 · 5★ |
+| 80 | Stef'paysages | 112 Rte Saint-Pierre de Féric, 06000 | 06 72 33 74 34 | — |
+| 81 | Palma Concept | 112 Av. de la Californie, 06200 | 06 31 30 52 32 | — |
+| 82 | Raffestin Thierry | 51 Av. de l'Arbre Inférieur, 06000 | 06 34 58 62 66 | 1 · 5★ |
+| 83 | Naturatec Jardin | 90 Bd de Cessole, 06100 | 06 23 32 80 69 | — |
+| 84 | Jardins Espaces Verts Côte d'Azur | 409 Bd de la Madeleine, 06000 | 04 93 57 81 87 | 1 · 5★ |
+| 85 | Laroche Jeremy | 28 Av. Lorenzi, 06100 | 04 89 00 18 57 | 1 · 5★ |
+| 86 | BA Jardin | 87 Av. George V, 06000 | 06 95 60 29 95 | — |
+| 87 | Un Jardin En Plus | 7 Rue du Maréchal Joffre, 06000 | 04 93 87 82 40 | — |
+| 88 | Magnifique Jardin | 80 Av. de la Bornala, 06200 | 06 20 27 16 48 | — |
+| 89 | Saint Leger Renaud | 5 Rue Général Hoche, 06000 | 04 93 73 10 06 | — |
+| 90 | MATTERA PIERRE | 12 Bd Comte de Falicon, 06100 | 06 09 09 71 46 | — |
+| 91 | Allo Jardin | 27 Bd de l'Ariane, 06300 | 04 93 54 84 66 | 1 · 5★ |
+| 92 | PENSÉE JARDIN | 22 Rue Barla, 06300 | 06 85 81 60 94 | 1 · 5★ |
+| 93 | Les Jardins De Ventabrun | 16 Chem. des Treuyes, 06200 | 06 20 46 57 94 | 6 · 4.2★ |
 
 ---
 
