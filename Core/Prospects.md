@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 66 prospects
+**Total confirmés :** 74 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -90,7 +90,7 @@
 
 ---
 
-## 🚗 GARAGES AUTOMOBILE — 15 prospects
+## 🚗 GARAGES AUTOMOBILE — 23 prospects
 
 | # | Nom | Adresse | Téléphone | Avis |
 |---|-----|---------|-----------|------|
@@ -109,6 +109,14 @@
 | 62 | GARAGE AB AUTO | 17 Av. Sainte-Marguerite, 06200 | 06 32 31 14 17 | 33 · 4.8★ |
 | 63 | Oumghar Mohamed | 22 bis Bd J-B Vérany, 06300 | 04 93 55 69 71 | 35 · 4.3★ |
 | 64 | Mécanique Auto Dépannage | 4 Rue d'Urfé, 06000 | 04 93 81 98 93 | 59 · 4.2★ |
+| 67 | Unique Motors Luxury | 106 Chem. du Vallon de Barla, 06200 | 04 97 07 16 20 | 40 · 5★ |
+| 68 | Garage Eden Park | 11 Av. Eden Park, 06000 | 04 93 97 16 86 | 40 · 4.2★ |
+| 69 | Garage Service Repair | 39 Rue André Theuriet, 06100 | 04 93 51 80 50 | 62 · 4.8★ |
+| 70 | Tecnic Auto | 75 Av. Raymond Comboul, 06000 | 04 93 98 58 79 | 60 · 4.6★ |
+| 71 | Donia Auto Mécanique Générale | 52 Rue Hérold, 06000 | 04 93 87 41 84 | 27 · 4★ |
+| 72 | MECA2B - Citroën | 53-55 Rue Maréchal Vauban, 06300 | 04 93 89 10 16 | 44 · 4.4★ |
+| 73 | Garage DAVER | 14 Rue Henry de Cessole, 06100 | 04 92 09 15 05 | 40 · 5★ |
+| 74 | Garage de la Palmeraie | 17 Av. Raoul Dufy, 06200 | 04 93 83 58 77 | 82 · 4.5★ |
 
 ---
 
