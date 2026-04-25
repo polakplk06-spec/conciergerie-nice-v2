@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 49 prospects
+**Total confirmés :** 64 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -90,7 +90,29 @@
 
 ---
 
-## ⏳ À VENIR — Électriciens + Garages (extractions en cours)
+## 🚗 GARAGES AUTOMOBILE — 15 prospects
+
+| # | Nom | Adresse | Téléphone | Avis |
+|---|-----|---------|-----------|------|
+| 50 | Alpha Garage Nice | 82 Bd Pasteur, 06000 | 04 93 80 00 82 | 38 · 4.9★ |
+| 51 | Garage Auto Californie | 128 Av. de la Californie, 06200 | 04 93 84 49 27 | 55 · 4.7★ |
+| 52 | Garage Perfect Auto 06 | 75 Bd Pasteur, 06000 | 04 93 87 92 24 | 119 · 4.6★ |
+| 53 | Garage du Génie | 19 Rue des Étoiles, 06000 | 04 93 44 73 88 | 28 · 4.9★ |
+| 54 | CENTRE AUTO BARLA | 5 Rue Cais de Pierlas, 06000 | 09 51 66 17 25 | 298 · 4.4★ |
+| 55 | Technic Automobile | 4 Av. Fanny, 06000 | 04 93 51 96 26 | 93 · 4.5★ |
+| 56 | Garage Apollinaire | Rue G. Apolinaire, 06000 | 04 93 92 20 96 | 18 · 4.8★ |
+| 57 | Garage 06 | 1 Rue François Massé, 06300 | 04 93 55 10 55 | 124 · 4.8★ |
+| 58 | Carrosserie des Fleurs | 117 Av. Henry Dunant, 06200 | 04 93 84 42 20 | 68 · 4.4★ |
+| 59 | Garage Grinda | 12 Bd Comte de Falicon, 06100 | 04 93 98 00 06 | 17 · 4.6★ |
+| 60 | Garage Sainson | 3 Av. Flores, 06000 | 04 93 80 58 26 | 59 · 4.5★ |
+| 61 | Garage Désambrois | 31 Av. Desambrois, 06000 | 04 93 13 92 27 | 85 · 4.6★ |
+| 62 | GARAGE AB AUTO | 17 Av. Sainte-Marguerite, 06200 | 06 32 31 14 17 | 33 · 4.8★ |
+| 63 | Oumghar Mohamed | 22 bis Bd J-B Vérany, 06300 | 04 93 55 69 71 | 35 · 4.3★ |
+| 64 | Mécanique Auto Dépannage | 4 Rue d'Urfé, 06000 | 04 93 81 98 93 | 59 · 4.2★ |
+
+---
+
+## ⏳ À VENIR
 
 ---
 
