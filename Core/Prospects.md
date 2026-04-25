@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 44 prospects
+**Total confirmés :** 49 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -67,6 +67,18 @@
 | 41 | Plomberie des Collines | 47 Bd Carlone, 06200 | 04 93 96 23 88 | — |
 | 42 | Azur Clim | 7 Rue Maréchal Vauban, 06300 | 04 93 54 24 80 | — |
 | 43 | Lou Plombier | 14 Chemin de Saquier, 06200 | 04 22 16 05 01 | — |
+
+---
+
+## ⚡ ÉLECTRICIENS — 5 prospects
+
+| # | Nom | Adresse | Téléphone | Avis |
+|---|-----|---------|-----------|------|
+| 45 | CLP Electricité | 18 Rue Massena, 06000 | 06 18 43 68 04 | 27 · 5★ |
+| 46 | FT Électricité | 7 Av. Cyrille Besset, 06100 | 06 15 44 49 27 | 14 · 5★ |
+| 47 | Prestatech | 5 Rue Chabrier, 06300 | 06 10 85 46 69 | 29 · 5★ |
+| 48 | MCP Valette | 30 Rue Georges Ville, 06300 | 04 93 83 73 48 | 14 · 4.4★ |
+| 49 | CAULETIN | 10 Rue de l'Armée d'Orient, 06300 | 04 92 00 29 92 | 11 · 4.9★ |
 
 ---
 
