@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 64 prospects
+**Total confirmés :** 66 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -109,6 +109,15 @@
 | 62 | GARAGE AB AUTO | 17 Av. Sainte-Marguerite, 06200 | 06 32 31 14 17 | 33 · 4.8★ |
 | 63 | Oumghar Mohamed | 22 bis Bd J-B Vérany, 06300 | 04 93 55 69 71 | 35 · 4.3★ |
 | 64 | Mécanique Auto Dépannage | 4 Rue d'Urfé, 06000 | 04 93 81 98 93 | 59 · 4.2★ |
+
+---
+
+## 🌿 PAYSAGISTES — 2 prospects
+
+| # | Nom | Adresse | Téléphone | Avis |
+|---|-----|---------|-----------|------|
+| 65 | Empreinte Végétale Méditeranée | 23 Av. Colombo, 06000 | 06 47 30 18 29 | 21 · 5★ |
+| 66 | Art et Paysage | 30 Av. Jean Médecin, 06000 | 04 93 62 58 46 | 49 · 4★ |
 
 ---
 
