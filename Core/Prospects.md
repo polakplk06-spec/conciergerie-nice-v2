@@ -1,7 +1,7 @@
 # Prospects — Tous secteurs, Nice, sans site web
 
 **Dernière MAJ :** 2026-04-25
-**Total confirmés :** 43 prospects
+**Total confirmés :** 44 prospects
 **Critères :** Nice uniquement · Pas de site web · Business établi avec avis Google
 
 ---
@@ -70,7 +70,15 @@
 
 ---
 
-## ⏳ À VENIR — Restaurants (extraction en cours)
+## 🏠 AGENCES IMMOBILIÈRES — 1 prospect
+
+| # | Nom | Adresse | Téléphone | Avis |
+|---|-----|---------|-----------|------|
+| 44 | Immobilière Rossini | Rue Rossini, 06000 | 04 93 88 80 30 | 13 · 4.7★ |
+
+---
+
+## ⏳ À VENIR — Électriciens + Garages (extractions en cours)
 
 ---
 
